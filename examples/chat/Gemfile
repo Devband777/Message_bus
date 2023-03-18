@@ -1,0 +1,4 @@
+# frozen_string_literal: true
+gem 'puma'
+gem 'redis'
+gem 'sinatra'
